@@ -62,8 +62,8 @@ Here are some of my highlighted repositories:
 ---
 
 ## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=artbyhar&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artbyhar&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=harfelyleipary&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harfelyleipary&layout=compact&theme=radical)  
 
 ---
 
