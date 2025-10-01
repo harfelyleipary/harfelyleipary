@@ -24,14 +24,14 @@ My main interests include:
 
 ## 🔧 Tech Stack  
 **Languages & Frameworks:**  
-- Python | R | SQL  
+- Python | R  
 - TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy  
 - Matplotlib | Seaborn | Plotly  
 
 **Tools & Platforms:**  
 - Jupyter Notebook | VS Code | Git & GitHub  
 - Hugging Face | Kaggle | Google Colab  
-- Docker | Linux  
+- Linux  
 
 **Specialties:**  
 - Regression & Classification models  
