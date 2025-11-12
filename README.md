@@ -1,6 +1,6 @@
 # Hi there, I'm Harfely Leipary 👋  
 
-💡 **Data Science Enthusiast | Machine Learning Developer | Deep Learning Explorer**  
+💡 **Data Science Enthusiast | Machine Learning and Deep Learning Explorer**  
 
 ---
 
@@ -9,16 +9,13 @@ I'm a **Data Science student** passionate about exploring the intersection of **
 My main interests include:  
 - Building **Machine Learning models** that solve real-world problems.  
 - Developing **Deep Learning architectures** for advanced analytics.  
-- Leveraging **data** to extract insights and make impactful decisions.  
-- Sharing my learning journey and coding experiments through **open-source projects**.
 
 ---
 
 ## 📚 Current Focus  
 - **ML Development:** End-to-end workflow from data preprocessing to model deployment.  
 - **Deep Learning Analysis:** Neural networks, CNNs, RNNs, and transformers.  
-- **Data Visualization:** Communicating insights through clear and interactive plots.  
-- **Experimentation:** Applying AI concepts to diverse domains, including social and scientific research.  
+- **Data Visualization:** Communicating insights through clear and interactive plots.   
 
 ---
 
@@ -29,9 +26,8 @@ My main interests include:
 - Matplotlib | Seaborn | Plotly  
 
 **Tools & Platforms:**  
-- Jupyter Notebook | VS Code | Git & GitHub  
+- VS Code | GitHub  
 - Hugging Face | Kaggle | Google Colab  
-- Linux  
 
 **Specialties:**  
 - Regression & Classification models  
@@ -56,7 +52,7 @@ Here are some of my highlighted repositories:
 |---------|-------------|------------|
 | [**Data-Science-**](https://github.com/artbyhar/Data-Science-) | Collection of my learning and coding materials in DS & AI. | Python, Jupyter, ML |
 | [**ds-discordbot**](https://github.com/artbyhar/ds-discordbot) | Discord bot to assist in moderation processes. | Python |
-| [**Nuualu-Project**](https://github.com/artbyhar/Nuualu-Project) | Research & code for my tribe's needs. | Python, Jupyter |
+| [**Nuaulu-Project**](https://github.com/artbyhar/Nuualu-Project) | Research & code for my tribe's needs. | Python, Jupyter |
 | [**ProjectChatBot**](https://github.com/artbyhar/ProjectChatBot) | Platform for experimenting with LLMs & AI Chatbots. | Python, Transformers |
 
 ---
