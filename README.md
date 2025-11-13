@@ -33,7 +33,8 @@ My main interests include:
 - Regression & Classification models  
 - Natural Language Processing (NLP)  
 - Time Series Forecasting  
-- Model Optimization & Evaluation  
+- Model Optimization & Evaluation
+- Tabular Neural Network
 
 ---
 
