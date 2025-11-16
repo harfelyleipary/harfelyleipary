@@ -14,7 +14,7 @@ My main interests include:
 
 ## 📚 Current Focus  
 - **ML Development:** End-to-end workflow from data preprocessing to model deployment.  
-- **Deep Learning Analysis:** Neural networks, CNNs, RNNs, and transformers.  
+- **Deep Learning Analysis:** Neural networks and transformers.  
 - **Data Visualization:** Communicating insights through clear and interactive plots.   
 
 ---
@@ -33,7 +33,6 @@ My main interests include:
 - Regression & Classification models  
 - Natural Language Processing (NLP)  
 - Time Series Forecasting  
-- Model Optimization & Evaluation
 - Tabular Neural Network
 
 ---
