@@ -1,6 +1,6 @@
 # Hi there, I'm Harfely Leipary 👋  
 
-💡 **Data Science Enthusiast | Machine Learning and Deep Learning Explorer**  
+**Data Science Enthusiast | Machine Learning and Deep Learning Explorer**  
 
 ---
 
