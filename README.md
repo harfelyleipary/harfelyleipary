@@ -31,9 +31,6 @@ My main interests include:
 - Hugging Face | Kaggle | Google Colab  
 
 **Specialties:**  
-- Regression & Classification models  
-- Natural Language Processing (NLP)  
-- Time Series Forecasting  
 - Tabular Neural Network
 
 ---
