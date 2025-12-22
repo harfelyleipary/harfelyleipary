@@ -37,7 +37,7 @@ My main interests include:
 
 ## 🌍 Socials & Links  
 🌐 **Portfolio & Profiles:**  
-[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=Instagram&logoColor=Yellow)](https://www.instagram.com/neipane_nesinopu/)
+[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=Instagram&logoColor=Yellow)](https://www.instagram.com/harfely_leipary/)
 [![Hugging Face](https://img.shields.io/badge/Huggingface-%230077B5.svg?logo=Huggingface&logoColor=Red)](https://huggingface.co/harfely12/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/USERNAME)  
 
