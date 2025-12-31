@@ -55,12 +55,6 @@ Here are some of my highlighted repositories:
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=harfelyleipary&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harfelyleipary&layout=compact&theme=radical)  
-
----
-
 ## 🚀 Fun Fact  
 > *I believe that data is more than numbers — it’s the key to understanding the world.*  
 
