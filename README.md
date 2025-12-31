@@ -26,7 +26,7 @@ My main interests include:
 - Matplotlib | Seaborn | Plotly  
 
 **Tools & Platforms:**  
-- Linux Ubuntu
+- Linux Ubuntu 24.04.3 LTS
 - VS Code | GitHub  
 - Hugging Face | Kaggle | Google Colab  
 
