@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me  
-I'm a **Data Science student** passionate about exploring the intersection of **Artificial Intelligence** and **Data Analysis**.  
+I'm Neipane Nesinopu, a **Data Science student** From NUAULU Tribe. passionate about exploring the intersection of **Artificial Intelligence** and **Data Analysis**.  
 My main interests include:  
 - Building **Machine Learning models** that solve real-world problems.  
 - Developing **Deep Learning architectures** for advanced analytics.  
